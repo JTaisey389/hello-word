@@ -31,17 +31,14 @@
 			<section>
 				<img src="https://via.placeholder.com/400x300">
 				<p>
-					Lucas ipsum dolor sit amet alderaan dagobah vader darth jango jabba calrissian leia darth solo. Jinn wookiee ventress calamari kessel gamorrean luuke. Kit jade hutt thrawn. Alderaan windu darth watto darth boba thrawn. Lars vader solo moff coruscant. Lars boba leia dooku. Dantooine jabba mara jinn. Chewbacca ackbar cade moff darth han darth. Ackbar leia yavin jinn darth coruscant. Hutt lando naboo darth fett jade hutt. Kessel darth skywalker luuke wampa. Jawa dantooine mon jango endor sidious jinn organa kamino.
+					These little son of a gun planets hide in your galaxy and you just have to push them out. This is the time to get out all your flustrations, much better than buying a Millennium Falcon. At least you get a marginal return on investment when you buy our planets.
 				</p>
 			</section>
 		</main>
 		
 		<footer>
 			<ul>
-				<li>home</li>
-				<li>history</li>
-				<li>order</li>
+				<li>International Space Station Link</li>
 			</ul>
-			<p>email: falcon@starwars.com</p>
 		</footer>
 	</body>
