@@ -15,15 +15,17 @@
 
 		<main>
 			<section>
-				<img src="https://via.placeholder.com/800x300">
+				<img src="https://via.placeholder.com/600x400">
 				<p>
-					Lucas ipsum dolor sit amet padmé ventress anakin solo coruscant twi'lek mon sidious grievous aayla. Calrissian solo dooku organa calrissian jango c-3po moff sidious. Droid binks qui-gonn gamorrean. Jinn jade skywalker darth c-3po gonk palpatine kessel. Binks darth lobot hutt moff solo. Bespin organa moff moff solo solo. Ben ackbar kashyyyk moff yoda jawa. Antilles greedo organa kessel obi-wan leia hutt jango. Utapau coruscant antilles darth mandalore darth. Fisto ben wedge ventress naboo. Ackbar jinn bespin yoda.
+					Let your imagination be your guide. We'll do another happy little planet sale. You have to make almighty decisions when you're the planet sales manager. The interdimensional fau gra is your friend. Preserve it. Nice little clouds playing around in the sky. It's a very cold planet, I may have to go get my coat. It’s about to freeze me to death.
+
 				</p>
 			</section>
 			<section>
 				<img src="https://via.placeholder.com/400x300">
 				<p>
-					Lucas ipsum dolor sit amet moff fisto lando jinn darth k-3po moff c-3p0 qui-gon aayla. Dagobah dantooine moff lando grievous antilles darth. Kashyyyk chewbacca coruscant kenobi bothan. Ventress antilles jinn darth biggs. Leia naboo kenobi dantooine gonk. Owen bespin binks twi'lek darth biggs kessel. Sidious ventress twi'lek amidala mon dantooine jinn organa. Dagobah solo han jinn binks leia darth windu. Secura jade moff thrawn boba. Lando dagobah palpatine fett mara mandalorians jar. Kessel kit antilles mace mothma.
+					Life is too short to be alone, too precious. Share the planet with a friend. Everyone needs a planet and a friend. Planets are the most valuable things in the galaxy. Give him a planet, we forget that we have our BOGO planet sale going on. 
+
 				</p>
 			</section>
 			<section>
