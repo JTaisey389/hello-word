@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Millennium Falcon</title>
+		<title>Interdimensional Planet Sales & Leasing</title>
 	</head>
 	<body>
 		<header>
-			<h1>The Millennium Falcon</h1>
+			<h1>Interdimensional Planet Sales & Leasing</h1>
 			<nav>
 				<ul>
-					<li>Home</li>
-					<li>History</li>
-					<li>Order Your Own</li>
+					<li>About</li>
+					<li>Planet Sales</li>
 				</ul>
 			</nav>
 		</header>
